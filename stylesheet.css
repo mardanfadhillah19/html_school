@@ -1,11 +1,12 @@
 body {
-    background-color: #d0e1f9;
+    background-color: #7899c2;
     color: #1d012b;
     
     font-family: "Open Sans", Arial;
     font-size: 17px;
     padding: 15px;
     margin: 0;
+    background-image: url(img/gedung.png);
     }
     .container {
     max-width: 650px;
@@ -41,11 +42,11 @@ ul {
   }
     
   li a:hover:not(.active) {
-    color: rgb(42, 125, 150);
+    color:  #00123f;
   }
     
   .active {
-    color: rgb(42, 125, 150);
+    color: #00123f;
   }
 .content {
 background-color: #ffffff;
@@ -78,7 +79,7 @@ margin-bottom: 30px;
 }
 
 .section img{
-  width: 200px;
+  width: 300px;
 }
 
 .clearfix:after {
@@ -88,7 +89,7 @@ margin-bottom: 30px;
 }
 
 .footer-main {
-  background-color: rgb(196, 247, 255);
+  background-color: #6598b8;
   padding: 24px 60px;
   color: #004258;
 }
